@@ -73,7 +73,8 @@ npm run dev
 
 Versel is used for free deployment of this project , with live project link :-
 
-    =>      ""
+    =>      "https://finance-dashboard-assisment.vercel.app/"   (Click/copy this link to see live project.)
+
 
 ---
 
